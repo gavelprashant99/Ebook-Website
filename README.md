@@ -1,7 +1,7 @@
 # The Next Book (Future Ready Talent Internship -Ebook-Website)
 
 ## Industry: Ed-Tech
-## Project Title: [The Next Book](https://storagefrt.z30.web.core.windows.net/#)
+## Project Title: [The Next Book]
 
 ## About
 
