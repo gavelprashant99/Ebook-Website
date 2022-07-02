@@ -1,4 +1,4 @@
-#ext Book (Future Ready Talent Internship)
+# Next Book (Future Ready Talent Internship)
 Final Project link: https://gray-forest-00f57c610.1.azurestaticapps.net
 
 ## Industry: Ed-Tech
